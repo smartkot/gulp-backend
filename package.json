@@ -1,0 +1,17 @@
+{
+  "name": "anna-ivanova-site",
+  "version": "1.0.0",
+  "description": "Web-site Anna Ivanova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Borisov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "0.0.7",
+    "gulp-sass": "^2.2.0"
+  }
+}
